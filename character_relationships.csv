@@ -1,0 +1,848 @@
+#,_id,sourceCharacterName,targetCharacterName,relationshipType
+1,6259b96450c09046963843e9,Yoren,Amory Lorch,killedBy
+2,6259b96450c09046963843e8,Yohn Royce,Waymar Royce,parentOf
+3,6259b96450c09046963843e7,Ygritte,Old Man,killed
+4,6259b96450c09046963843e7,Ygritte,Guymon,killed
+5,6259b96450c09046963843e7,Ygritte,Mole's Town Whore,killed
+6,6259b96450c09046963843e7,Ygritte,Pypar,killed
+7,6259b96450c09046963843e7,Ygritte,Jon Snow,marriedEngaged
+8,6259b96450c09046963843e7,Ygritte,Olly,killedBy
+9,6259b96450c09046963843e5,Yara Greyjoy,Theon Greyjoy,siblings
+10,6259b96450c09046963843e5,Yara Greyjoy,Balon Greyjoy,parents
+11,6259b96450c09046963843e4,Xaro Xhoan Daxos,Daenerys Targaryen,killedBy
+12,6259b96450c09046963843e2,Wun Wun,Lyanna Mormont,killed
+13,6259b96450c09046963843e2,Wun Wun,Ramsay Snow,killedBy
+14,6259b96450c09046963843e2,Wun Wun,Lyanna Mormont,killedBy
+15,6259b96450c09046963843df,Willis Wode,Mountain Clansman,killedBy
+16,6259b96450c09046963843de,Willem Lannister,Lancel Lannister,siblings
+17,6259b96450c09046963843de,Willem Lannister,Martyn Lannister,siblings
+18,6259b96450c09046963843de,Willem Lannister,Kevan Lannister,parents
+19,6259b96450c09046963843de,Willem Lannister,Rickard Karstark,killedBy
+20,6259b96450c09046963843dd,Will,Eddard Stark,killedBy
+21,6259b96450c09046963843d9,White Walker,Loboda,killed
+22,6259b96450c09046963843d9,White Walker,Jon Snow,killedBy
+23,6259b96450c09046963843d8,White Walker,Samwell Tarly,killedBy
+24,6259b96450c09046963843d5,Waymar Royce,White Walker,killedBy
+25,6259b96450c09046963843d5,Waymar Royce,Yohn Royce,parents
+26,6259b96450c09046963843d3,Wallen,Robb Stark,killedBy
+27,6259b96450c09046963843d2,Walder Frey,Black Walder Rivers,parentOf
+28,6259b96450c09046963843d2,Walder Frey,Lothar Frey,parentOf
+29,6259b96450c09046963843d2,Walder Frey,Roslin Frey,parentOf
+30,6259b96450c09046963843d2,Walder Frey,Ryger Rivers,parentOf
+31,6259b96450c09046963843d2,Walder Frey,Kitty Frey,marriedEngaged
+32,6259b96450c09046963843d2,Walder Frey,Joyeuse Erenford,marriedEngaged
+33,6259b96450c09046963843d2,Walder Frey,Arya Stark,killedBy
+34,6259b96450c09046963843d1,Walda Bolton,Ramsay Snow's Hounds,killedBy
+35,6259b96450c09046963843d1,Walda Bolton,Roose Bolton,marriedEngaged
+36,6259b96450c09046963843d0,Viserys Targaryen,Rhaegar Targaryen,siblings
+37,6259b96450c09046963843d0,Viserys Targaryen,Khal Drogo,killedBy
+38,6259b96450c09046963843d0,Viserys Targaryen,Rhaella Targaryen,parents
+39,6259b96450c09046963843d0,Viserys Targaryen,Aerys II Targaryen,parents
+40,6259b96450c09046963843d0,Viserys Targaryen,Daenerys Targaryen,siblings
+41,6259b96450c09046963843cf,Viserion,The Night King,killedBy
+42,6259b96450c09046963843cf,Viserion,Arya Stark,killedBy
+43,6259b96450c09046963843cf,Viserion,Pyat Pree,killed
+44,6259b96450c09046963843cf,Viserion,Great Master #1,killed
+45,6259b96450c09046963843cf,Viserion,Rhaegal,siblings
+46,6259b96450c09046963843cf,Viserion,Drogon,siblings
+47,6259b96450c09046963843cf,Viserion,Daenerys Targaryen,guardianOf
+48,6259b96450c09046963843ce,Varly,Goldcloak,killedBy
+49,6259b96450c09046963843cd,Vardis Egen,Bronn,killedBy
+50,6259b96450c09046963843cb,Tywin Lannister,Robert Baratheon,allies
+51,6259b96450c09046963843cb,Tywin Lannister,Gregor Clegane,servedBy
+52,6259b96450c09046963843cb,Tywin Lannister,Jaime Lannister,parentOf
+53,6259b96450c09046963843cb,Tywin Lannister,Cersei Lannister,parentOf
+54,6259b96450c09046963843cb,Tywin Lannister,Tyrion Lannister,parentOf
+55,6259b96450c09046963843cb,Tywin Lannister,Tyrion Lannister,killedBy
+56,6259b96450c09046963843ca,Tyrion Lannister,Daenerys Targaryen,serves
+57,6259b96450c09046963843ca,Tyrion Lannister,Sansa Stark,marriedEngaged
+58,6259b96450c09046963843ca,Tyrion Lannister,Shae,killed
+59,6259b96450c09046963843ca,Tyrion Lannister,Tywin Lannister,killed
+60,6259b96450c09046963843ca,Tyrion Lannister,Jaime Lannister,siblings
+61,6259b96450c09046963843ca,Tyrion Lannister,Cersei Lannister,siblings
+62,6259b96450c09046963843ca,Tyrion Lannister,Tywin Lannister,parents
+63,6259b96450c09046963843c9,Tyene Sand,Maester Caleotte,killed
+64,6259b96450c09046963843c9,Tyene Sand,Areo Hotah,killed
+65,6259b96450c09046963843c9,Tyene Sand,Cersei Lannister,killedBy
+66,6259b96450c09046963843c9,Tyene Sand,Ellaria Sand,parents
+67,6259b96450c09046963843c9,Tyene Sand,Oberyn Martell,parents
+68,6259b96450c09046963843c7,Trystane Martell,Doran Martell,parents
+69,6259b96450c09046963843c7,Trystane Martell,Obara Sand,killedBy
+70,6259b96450c09046963843c7,Trystane Martell,Myrcella Baratheon,marriedEngaged
+71,6259b96450c09046963843c6,Tormund Giantsbane,Smalljon Umber,killed
+72,6259b96450c09046963843c6,Tormund Giantsbane,Rattleshirt,killed
+73,6259b96450c09046963843c5,Tommen Baratheon,Robert Baratheon,parents
+74,6259b96450c09046963843c5,Tommen Baratheon,Tommen Baratheon,killedBy
+75,6259b96450c09046963843c5,Tommen Baratheon,Cersei Lannister,parents
+76,6259b96450c09046963843c5,Tommen Baratheon,Jaime Lannister,parents
+77,6259b96450c09046963843c5,Tommen Baratheon,Joffrey Baratheon,siblings
+78,6259b96450c09046963843c5,Tommen Baratheon,Tommen Baratheon,killed
+79,6259b96450c09046963843c5,Tommen Baratheon,Margaery Tyrell,marriedEngaged
+80,6259b96450c09046963843c5,Tommen Baratheon,Myrcella Baratheon,siblings
+81,6259b96450c09046963843c0,Three-Eyed Raven,The Night King,killedBy
+82,6259b96450c09046963843bd,Theon Greyjoy,Yara Greyjoy,siblings
+83,6259b96450c09046963843bd,Theon Greyjoy,Balon Greyjoy,parents
+84,6259b96450c09046963843bd,Theon Greyjoy,The Night King,killedBy
+85,6259b96450c09046963843bd,Theon Greyjoy,Stiv,killed
+86,6259b96450c09046963843bd,Theon Greyjoy,Rodrik Cassel,killed
+87,6259b96450c09046963843bd,Theon Greyjoy,Myranda,killed
+88,6259b96450c09046963843bd,Theon Greyjoy,Bolton Soldier,killed
+89,6259b96450c09046963843bd,Theon Greyjoy,Harrag,killed
+90,6259b96450c09046963843bc,Thenn Warg,Samwell Tarly,killedBy
+91,6259b96450c09046963843bb,The Waif,Arya Stark,killedBy
+92,6259b96450c09046963843bb,The Waif,Lady Crane,killed
+93,6259b96450c09046963843ba,The Tickler,Tortured Prisoner,killed
+94,6259b96450c09046963843ba,The Tickler,Jaqen H'ghar,killedBy
+95,6259b96450c09046963843b9,The Night King,Theon Greyjoy,killed
+96,6259b96450c09046963843b9,The Night King,Ned Umber,killed
+97,6259b96450c09046963843b9,The Night King,Three-Eyed Raven,killed
+98,6259b96450c09046963843b9,The Night King,Arya Stark,killedBy
+99,6259b96450c09046963843b9,The Night King,Viserion,killed
+100,6259b96450c09046963843b6,Talla Tarly,Melessa Tarly,parents
+101,6259b96450c09046963843b6,Talla Tarly,Randyll Tarly,parents
+102,6259b96450c09046963843b6,Talla Tarly,Dickon Tarly,siblings
+103,6259b96450c09046963843b6,Talla Tarly,Samwell Tarly,siblings
+104,6259b96450c09046963843b5,Talisa Maegyr,Lothar Frey,killedBy
+105,6259b96450c09046963843b5,Talisa Maegyr,Robb Stark,marriedEngaged
+106,6259b96450c09046963843b4,Syrio Forel,Meryn Trant,killedBy
+107,6259b96450c09046963843b3,Summer,Shaggydog,siblings
+108,6259b96450c09046963843b3,Summer,Nymeria,siblings
+109,6259b96450c09046963843b3,Summer,Lady,siblings
+110,6259b96450c09046963843b3,Summer,Grey Wind,siblings
+111,6259b96450c09046963843b3,Summer,Wights,killedBy
+112,6259b96450c09046963843b3,Summer,Catspaw Assassin,killed
+113,6259b96450c09046963843b3,Summer,Bran Stark,guardianOf
+114,6259b96450c09046963843b3,Summer,Ghost,siblings
+115,6259b96450c09046963843b2,Styr,Jon Snow,killedBy
+116,6259b96450c09046963843b2,Styr,Olly's Mother,killed
+117,6259b96450c09046963843b1,Stiv,Theon Greyjoy,killedBy
+118,6259b96450c09046963843a9,Stannis Baratheon,Shireen Baratheon,parentOf
+119,6259b96450c09046963843a9,Stannis Baratheon,Simpson,killed
+120,6259b96450c09046963843a9,Stannis Baratheon,Gordy,killed
+121,6259b96450c09046963843a9,Stannis Baratheon,Renly Baratheon,siblings
+122,6259b96450c09046963843a9,Stannis Baratheon,Robert Baratheon,siblings
+123,6259b96450c09046963843a9,Stannis Baratheon,Brienne of Tarth,killedBy
+124,6259b96450c09046963843a9,Stannis Baratheon,Selyse Baratheon,marriedEngaged
+125,6259b96450c09046963843a8,Spice King,Pyat Pree,killedBy
+126,6259b96450c09046963843a7,Smalljon Umber,Greatjon Umber,parents
+127,6259b96450c09046963843a7,Smalljon Umber,Tormund Giantsbane,killedBy
+128,6259b96450c09046963843a7,Smalljon Umber,Shaggydog,killed
+129,6259b96450c09046963843a6,Silk King,Pyat Pree,killedBy
+130,6259b96450c09046963843a5,Shireen Baratheon,Stannis Baratheon,parents
+131,6259b96450c09046963843a5,Shireen Baratheon,Selyse Baratheon,parents
+132,6259b96450c09046963843a5,Shireen Baratheon,Melisandre,killedBy
+133,6259b96450c09046963843a4,Shaggydog,Smalljon Umber,killedBy
+134,6259b96450c09046963843a4,Shaggydog,Grey Wind,siblings
+135,6259b96450c09046963843a4,Shaggydog,Lady,siblings
+136,6259b96450c09046963843a4,Shaggydog,Nymeria,siblings
+137,6259b96450c09046963843a4,Shaggydog,Summer,siblings
+138,6259b96450c09046963843a4,Shaggydog,Ghost,siblings
+139,6259b96450c09046963843a4,Shaggydog,Rickon Stark,guardianOf
+140,6259b96450c09046963843a2,Shae,Tyrion Lannister,killedBy
+141,6259b96450c090469638439c,Septa Mordane,Lannister Guardsman,killedBy
+142,6259b96450c090469638439a,Selyse Baratheon,Selyse Baratheon,killedBy
+143,6259b96450c090469638439a,Selyse Baratheon,Stannis Baratheon,marriedEngaged
+144,6259b96450c090469638439a,Selyse Baratheon,Shireen Baratheon,parentOf
+145,6259b96450c090469638439a,Selyse Baratheon,Selyse Baratheon,killed
+146,6259b96450c0904696384399,Sansa Stark,Ramsay Snow,marriedEngaged
+147,6259b96450c0904696384399,Sansa Stark,Tyrion Lannister,marriedEngaged
+148,6259b96450c0904696384399,Sansa Stark,Joffrey Baratheon,marriedEngaged
+149,6259b96450c0904696384399,Sansa Stark,Lady,guardedBy
+150,6259b96450c0904696384399,Sansa Stark,Rickon Stark,siblings
+151,6259b96450c0904696384399,Sansa Stark,Bran Stark,siblings
+152,6259b96450c0904696384399,Sansa Stark,Arya Stark,siblings
+153,6259b96450c0904696384399,Sansa Stark,Robb Stark,siblings
+154,6259b96450c0904696384399,Sansa Stark,Eddard Stark,parents
+155,6259b96450c0904696384399,Sansa Stark,Catelyn Stark,parents
+156,6259b96450c0904696384398,Sandor Clegane,Lowell,killed
+157,6259b96450c0904696384398,Sandor Clegane,Frey Soldier #2,killed
+158,6259b96450c0904696384398,Sandor Clegane,Beric Dondarrion,killed
+159,6259b96450c0904696384398,Sandor Clegane,Kings Landing Rioter #3,killed
+160,6259b96450c0904696384398,Sandor Clegane,Dying Man,killed
+161,6259b96450c0904696384398,Sandor Clegane,Sandor Clegane,killedBy
+162,6259b96450c0904696384398,Sandor Clegane,Biter,killed
+163,6259b96450c0904696384398,Sandor Clegane,Steve,killed
+164,6259b96450c0904696384398,Sandor Clegane,Riddell,killed
+165,6259b96450c0904696384398,Sandor Clegane,Morgan,killed
+166,6259b96450c0904696384398,Sandor Clegane,Gregor Clegane,killed
+167,6259b96450c0904696384398,Sandor Clegane,Lem Lemoncloak,killed
+168,6259b96450c0904696384398,Sandor Clegane,Gatins,killed
+169,6259b96450c0904696384398,Sandor Clegane,Kings Landing Rioter #2,killed
+170,6259b96450c0904696384398,Sandor Clegane,Kings Landing Rioter #1,killed
+171,6259b96450c0904696384398,Sandor Clegane,Gregor Clegane,siblings
+172,6259b96450c0904696384398,Sandor Clegane,Mycah,killed
+173,6259b96450c0904696384398,Sandor Clegane,Sandor Clegane,killed
+174,6259b96450c0904696384397,Samwell Tarly,White Walker,killed
+175,6259b96450c0904696384397,Samwell Tarly,Thenn Warg,killed
+176,6259b96450c0904696384397,Samwell Tarly,Melessa Tarly,parents
+177,6259b96450c0904696384397,Samwell Tarly,Gilly,marriedEngaged
+178,6259b96450c0904696384397,Samwell Tarly,Randyll Tarly,parents
+179,6259b96450c0904696384397,Samwell Tarly,Baby Sam,parentOf
+180,6259b96450c0904696384397,Samwell Tarly,Dickon Tarly,siblings
+181,6259b96450c0904696384397,Samwell Tarly,Talla Tarly,siblings
+182,6259b96450c0904696384395,Ryger Rivers,Walder Frey,parents
+183,6259b96450c0904696384393,Roslin Frey,Edmure Tully,marriedEngaged
+184,6259b96450c0904696384393,Roslin Frey,Walder Frey,parents
+185,6259b96450c0904696384393,Roslin Frey,Robb Stark,marriedEngaged
+186,6259b96450c0904696384392,Ros,Joffrey Baratheon,killedBy
+187,6259b96450c0904696384391,Rorge,Arya Stark,killedBy
+188,6259b96450c0904696384390,Roose Bolton,Ramsay Snow,killedBy
+189,6259b96450c0904696384390,Roose Bolton,Ramsay Snow,parentOf
+190,6259b96450c0904696384390,Roose Bolton,Walda Bolton,marriedEngaged
+191,6259b96450c0904696384390,Roose Bolton,Robb Stark,killed
+192,6259b96450c090469638438f,Rodrik Cassel,Eddard Stark,serves
+193,6259b96450c090469638438f,Rodrik Cassel,Theon Greyjoy,killedBy
+194,6259b96450c090469638438e,Robin Arryn,Jon Arryn,parents
+195,6259b96450c090469638438e,Robin Arryn,Lysa Arryn,parents
+196,6259b96450c090469638438c,Robert Baratheon,Rhaegar Targaryen,killed
+197,6259b96450c090469638438c,Robert Baratheon,Jon Arryn,guardedBy
+198,6259b96450c090469638438c,Robert Baratheon,Boar,killedBy
+199,6259b96450c090469638438c,Robert Baratheon,Cersei Lannister,marriedEngaged
+200,6259b96450c090469638438c,Robert Baratheon,Jon Arryn,allies
+201,6259b96450c090469638438c,Robert Baratheon,Eddard Stark,allies
+202,6259b96450c090469638438c,Robert Baratheon,Tywin Lannister,allies
+203,6259b96450c090469638438c,Robert Baratheon,Lyanna Stark,marriedEngaged
+204,6259b96450c090469638438c,Robert Baratheon,Stannis Baratheon,siblings
+205,6259b96450c090469638438c,Robert Baratheon,Renly Baratheon,siblings
+206,6259b96450c090469638438c,Robert Baratheon,Tommen Baratheon,parentOf
+207,6259b96450c090469638438c,Robert Baratheon,Joffrey Baratheon,parentOf
+208,6259b96450c090469638438c,Robert Baratheon,Myrcella Baratheon,parentOf
+209,6259b96450c090469638438b,Robb Stark,Roslin Frey,marriedEngaged
+210,6259b96450c090469638438b,Robb Stark,Catelyn Stark,parents
+211,6259b96450c090469638438b,Robb Stark,Eddard Stark,parents
+212,6259b96450c090469638438b,Robb Stark,Bran Stark,siblings
+213,6259b96450c090469638438b,Robb Stark,Talisa Maegyr,marriedEngaged
+214,6259b96450c090469638438b,Robb Stark,Wallen,killed
+215,6259b96450c090469638438b,Robb Stark,Rickard Karstark,killed
+216,6259b96450c090469638438b,Robb Stark,Grey Wind,guardedBy
+217,6259b96450c090469638438b,Robb Stark,Roose Bolton,killedBy
+218,6259b96450c090469638438b,Robb Stark,Arya Stark,siblings
+219,6259b96450c090469638438b,Robb Stark,Sansa Stark,siblings
+220,6259b96450c090469638438b,Robb Stark,Rickon Stark,siblings
+221,6259b96450c090469638438a,Rickon Stark,Sansa Stark,siblings
+222,6259b96450c090469638438a,Rickon Stark,Arya Stark,siblings
+223,6259b96450c090469638438a,Rickon Stark,Bran Stark,siblings
+224,6259b96450c090469638438a,Rickon Stark,Robb Stark,siblings
+225,6259b96450c090469638438a,Rickon Stark,Eddard Stark,parents
+226,6259b96450c090469638438a,Rickon Stark,Catelyn Stark,parents
+227,6259b96450c090469638438a,Rickon Stark,Shaggydog,guardedBy
+228,6259b96450c090469638438a,Rickon Stark,Ramsay Snow,killedBy
+229,6259b96450c0904696384389,Rickard Stark,Eddard Stark,parentOf
+230,6259b96450c0904696384389,Rickard Stark,Lyanna Stark,parentOf
+231,6259b96450c0904696384389,Rickard Stark,Brandon Stark,parentOf
+232,6259b96450c0904696384389,Rickard Stark,Aerys II Targaryen,killedBy
+233,6259b96450c0904696384389,Rickard Stark,Benjen Stark,parentOf
+234,6259b96450c0904696384388,Rickard Karstark,Harald Karstark,parentOf
+235,6259b96450c0904696384388,Rickard Karstark,Robb Stark,killedBy
+236,6259b96450c0904696384388,Rickard Karstark,Martyn Lannister,killed
+237,6259b96450c0904696384388,Rickard Karstark,Willem Lannister,killed
+238,6259b96450c0904696384387,Rhaenys Targaryen,Aegon Targaryen,sibling
+239,6259b96450c0904696384387,Rhaenys Targaryen,Jon Snow,sibling
+240,6259b96450c0904696384387,Rhaenys Targaryen,Gregor Clegane,killedBy
+241,6259b96450c0904696384387,Rhaenys Targaryen,Rhaegar Targaryen,parents
+242,6259b96450c0904696384387,Rhaenys Targaryen,Elia Martell,parents
+243,6259b96450c0904696384386,Rhaella Targaryen,Aerys II Targaryen,siblings
+244,6259b96450c0904696384386,Rhaella Targaryen,Daenerys Targaryen,parentOf
+245,6259b96450c0904696384386,Rhaella Targaryen,Rhaegar Targaryen,parentOf
+246,6259b96450c0904696384386,Rhaella Targaryen,Viserys Targaryen,parentOf
+247,6259b96450c0904696384386,Rhaella Targaryen,Aerys II Targaryen,marriedEngaged
+248,6259b96450c0904696384385,Rhaego,Mirri Maz Duur,killedBy
+249,6259b96450c0904696384385,Rhaego,Daenerys Targaryen,parents
+250,6259b96450c0904696384385,Rhaego,Khal Drogo,parents
+251,6259b96450c0904696384384,Rhaegar Targaryen,Robert Baratheon,killedBy
+252,6259b96450c0904696384384,Rhaegar Targaryen,Elia Martell,marriedEngaged
+253,6259b96450c0904696384384,Rhaegar Targaryen,Aerys II Targaryen,parents
+254,6259b96450c0904696384384,Rhaegar Targaryen,Rhaella Targaryen,parents
+255,6259b96450c0904696384384,Rhaegar Targaryen,Lyanna Stark,abducted
+256,6259b96450c0904696384384,Rhaegar Targaryen,Lyanna Stark,marriedEngaged
+257,6259b96450c0904696384384,Rhaegar Targaryen,Daenerys Targaryen,siblings
+258,6259b96450c0904696384384,Rhaegar Targaryen,Jon Snow,parentOf
+259,6259b96450c0904696384384,Rhaegar Targaryen,Viserys Targaryen,siblings
+260,6259b96450c0904696384384,Rhaegar Targaryen,Rhaenys Targaryen,parentOf
+261,6259b96450c0904696384384,Rhaegar Targaryen,Aegon Targaryen,parentOf
+262,6259b96450c0904696384383,Rhaegal,Pyat Pree,killed
+263,6259b96450c0904696384383,Rhaegal,Great Master #1,killed
+264,6259b96450c0904696384383,Rhaegal,Euron Greyjoy,killedBy
+265,6259b96450c0904696384383,Rhaegal,Viserion,siblings
+266,6259b96450c0904696384383,Rhaegal,Drogon,siblings
+267,6259b96450c0904696384383,Rhaegal,Daenerys Targaryen,guardianOf
+268,6259b96450c0904696384382,Renly Baratheon,Robert Baratheon,siblings
+269,6259b96450c0904696384382,Renly Baratheon,Margaery Tyrell,marriedEngaged
+270,6259b96450c0904696384382,Renly Baratheon,Stannis Baratheon,siblings
+271,6259b96450c0904696384382,Renly Baratheon,Melisandre,killedBy
+272,6259b96450c090469638437f,Red Keep Stableboy,Arya Stark,killedBy
+273,6259b96450c090469638437e,Razdal mo Eraz,Grey Worm,killedBy
+274,6259b96450c090469638437d,Rattleshirt,Tormund Giantsbane,killedBy
+275,6259b96450c090469638437c,Rast,Ghost,killedBy
+276,6259b96450c090469638437c,Rast,Jeor Mormont,killed
+277,6259b96450c090469638437b,Randyll Tarly,Melessa Tarly,marriedEngaged
+278,6259b96450c090469638437b,Randyll Tarly,Samwell Tarly,parentOf
+279,6259b96450c090469638437b,Randyll Tarly,Talla Tarly,parentOf
+280,6259b96450c090469638437b,Randyll Tarly,Daenerys Targaryen,killedBy
+281,6259b96450c090469638437b,Randyll Tarly,Dickon Tarly,parentOf
+282,6259b96450c090469638437a,Ramsay Snow,Ramsay Snow's Hounds,killedBy
+283,6259b96450c090469638437a,Ramsay Snow,Roose Bolton,killed
+284,6259b96450c090469638437a,Ramsay Snow,Osha,killed
+285,6259b96450c090469638437a,Ramsay Snow,Rickon Stark,killed
+286,6259b96450c090469638437a,Ramsay Snow,Sansa Stark,marriedEngaged
+287,6259b96450c090469638437a,Ramsay Snow,Wun Wun,killed
+288,6259b96450c090469638437a,Ramsay Snow,Master Torturer,killed
+289,6259b96450c090469638437a,Ramsay Snow,Medger Cerwyn,killed
+290,6259b96450c090469638437a,Ramsay Snow,Lady Cerwyn,killed
+291,6259b96450c090469638437a,Ramsay Snow,Roose Bolton,parents
+292,6259b96450c090469638437a,Ramsay Snow,Old Woman,killed
+293,6259b96450c090469638437a,Ramsay Snow,Unidentified Cerwyn,killed
+294,6259b96450c0904696384379,Rakharo,Khal Jhaqo's Khalasar,killedBy
+295,6259b96450c0904696384378,Qyburn,Cersei Lannister,serves
+296,6259b96450c0904696384378,Qyburn,Gregor Clegane,killedBy
+297,6259b96450c0904696384376,Qotho,Jorah Mormont,killedBy
+298,6259b96450c0904696384375,Qhorin Halfhand,Jon Snow,killedBy
+299,6259b96450c0904696384373,Pypar,Ygritte,killedBy
+300,6259b96450c0904696384372,Pyat Pree,Rhaegal,killedBy
+301,6259b96450c0904696384372,Pyat Pree,Silk King,killed
+302,6259b96450c0904696384372,Pyat Pree,Drogon,killedBy
+303,6259b96450c0904696384372,Pyat Pree,Spice King,killed
+304,6259b96450c0904696384372,Pyat Pree,Viserion,killedBy
+305,6259b96450c0904696384371,Prendahl na Ghezn,Daario Naharis,killedBy
+306,6259b96450c0904696384370,Polliver,Lommy Greenhands,killed
+307,6259b96450c0904696384370,Polliver,Arya Stark,killedBy
+308,6259b96450c090469638436f,Podrick Payne,Tyrion Lannister,serves
+309,6259b96450c090469638436f,Podrick Payne,Brienne of Tarth,serves
+310,6259b96450c090469638436f,Podrick Payne,Bolton Soldier,killed
+311,6259b96450c090469638436f,Podrick Payne,Bran Stark,serves
+312,6259b96450c090469638436f,Podrick Payne,Mandon Moore,killed
+313,6259b96450c090469638436e,Petyr Baelish,Lysa Arryn,killed
+314,6259b96450c090469638436e,Petyr Baelish,Dontos Hollard,killed
+315,6259b96450c090469638436e,Petyr Baelish,Joffrey Baratheon,killed
+316,6259b96450c090469638436e,Petyr Baelish,Lysa Arryn,marriedEngaged
+317,6259b96450c090469638436e,Petyr Baelish,Arya Stark,killedBy
+318,6259b96450c090469638436c,Othor,Jon Snow,killedBy
+319,6259b96450c090469638436c,Othor,White Walker,killedBy
+320,6259b96450c090469638436b,Othell Yarwyck,Jon Snow,killed
+321,6259b96450c090469638436b,Othell Yarwyck,Jon Snow,killedBy
+322,6259b96450c090469638436a,Osha,Ramsay Snow,killedBy
+323,6259b96450c090469638436a,Osha,Maester Luwin,killed
+324,6259b96450c090469638436a,Osha,Drennan,killed
+325,6259b96450c0904696384368,Orell,Jon Snow,killedBy
+326,6259b96450c0904696384366,Olly,Jon Snow,killed
+327,6259b96450c0904696384366,Olly,Ygritte,killed
+328,6259b96450c0904696384366,Olly,Jon Snow,killedBy
+329,6259b96450c0904696384365,Olenna Tyrell,Mace Tyrell,parentOf
+330,6259b96450c0904696384365,Olenna Tyrell,Joffrey Baratheon,killed
+331,6259b96450c0904696384365,Olenna Tyrell,Jaime Lannister,killedBy
+332,6259b96450c0904696384362,Oberyn Martell,Ellaria Sand,marriedEngaged
+333,6259b96450c0904696384362,Oberyn Martell,Gregor Clegane,killedBy
+334,6259b96450c0904696384362,Oberyn Martell,Doran Martell,siblings
+335,6259b96450c0904696384362,Oberyn Martell,Elia Martell,siblings
+336,6259b96450c0904696384362,Oberyn Martell,Obara Sand,parentOf
+337,6259b96450c0904696384362,Oberyn Martell,Nymeria Sand,parentOf
+338,6259b96450c0904696384362,Oberyn Martell,Tyene Sand,parentOf
+339,6259b96450c0904696384361,Obara Sand,Trystane Martell,killed
+340,6259b96450c0904696384361,Obara Sand,Oberyn Martell,parents
+341,6259b96450c0904696384361,Obara Sand,Merchant Captain,killed
+342,6259b96450c0904696384361,Obara Sand,Euron Greyjoy,killedBy
+343,6259b96450c0904696384360,Nymeria Sand,Oberyn Martell,parents
+344,6259b96450c0904696384360,Nymeria Sand,Euron Greyjoy,killedBy
+345,6259b96450c090469638435f,Nymeria,Shaggydog,siblings
+346,6259b96450c090469638435f,Nymeria,Grey Wind,siblings
+347,6259b96450c090469638435f,Nymeria,Lady,siblings
+348,6259b96450c090469638435f,Nymeria,Summer,siblings
+349,6259b96450c090469638435f,Nymeria,Ghost,siblings
+350,6259b96450c090469638435f,Nymeria,Arya Stark,guardianOf
+351,6259b96450c0904696384353,Ned Umber,The Night King,killedBy
+352,6259b96450c0904696384352,Myrcella Baratheon,Cersei Lannister,parents
+353,6259b96450c0904696384352,Myrcella Baratheon,Ellaria Sand,killedBy
+354,6259b96450c0904696384352,Myrcella Baratheon,Robert Baratheon,parents
+355,6259b96450c0904696384352,Myrcella Baratheon,Trystane Martell,marriedEngaged
+356,6259b96450c0904696384352,Myrcella Baratheon,Tommen Baratheon,siblings
+357,6259b96450c0904696384352,Myrcella Baratheon,Joffrey Baratheon,siblings
+358,6259b96450c0904696384352,Myrcella Baratheon,Jaime Lannister,parents
+359,6259b96450c0904696384351,Myranda,Theon Greyjoy,killedBy
+360,6259b96450c0904696384350,Mycah,Sandor Clegane,killedBy
+361,6259b96450c0904696384347,Mossador,Daario Naharis,killedBy
+362,6259b96450c0904696384347,Mossador,Son of the Harpy,killed
+363,6259b96450c0904696384345,Missandei,Daenerys Targaryen,serves
+364,6259b96450c0904696384345,Missandei,Gregor Clegane,killedBy
+365,6259b96450c0904696384344,Mirri Maz Duur,Rhaego,killed
+366,6259b96450c0904696384344,Mirri Maz Duur,Daenerys Targaryen,killedBy
+367,6259b96450c0904696384340,Meryn Trant,Arya Stark,killedBy
+368,6259b96450c0904696384340,Meryn Trant,Syrio Forel,killed
+369,6259b96450c090469638433f,Mero,Daario Naharis,killedBy
+370,6259b96450c090469638433e,Merchant Captain,Obara Sand,killedBy
+371,6259b96450c090469638433d,Melisandre,Shireen Baratheon,killed
+372,6259b96450c090469638433d,Melisandre,Old Age,killedBy
+373,6259b96450c090469638433d,Melisandre,Renly Baratheon,killed
+374,6259b96450c090469638433d,Melisandre,Axell Florent,killed
+375,6259b96450c090469638433d,Melisandre,Mance Rayder,killed
+376,6259b96450c090469638433c,Melessa Tarly,Talla Tarly,parentOf
+377,6259b96450c090469638433c,Melessa Tarly,Samwell Tarly,parentOf
+378,6259b96450c090469638433c,Melessa Tarly,Randyll Tarly,marriedEngaged
+379,6259b96450c090469638433c,Melessa Tarly,Dickon Tarly,parentOf
+380,6259b96450c090469638433a,Meera Reed,White Walker,killed
+381,6259b96450c090469638433a,Meera Reed,Jojen Reed,killed
+382,6259b96450c090469638433a,Meera Reed,Howland Reed,parents
+383,6259b96450c0904696384339,Matthos Seaworth,Bronn,killedBy
+384,6259b96450c0904696384339,Matthos Seaworth,Davos Seaworth,parents
+385,6259b96450c0904696384337,Martyn Lannister,Lancel Lannister,siblings
+386,6259b96450c0904696384337,Martyn Lannister,Willem Lannister,siblings
+387,6259b96450c0904696384337,Martyn Lannister,Kevan Lannister,parents
+388,6259b96450c0904696384337,Martyn Lannister,Rickard Karstark,killedBy
+389,6259b96450c0904696384334,Margaery Tyrell,Mace Tyrell,parents
+390,6259b96450c0904696384334,Margaery Tyrell,Loras Tyrell,siblings
+391,6259b96450c0904696384334,Margaery Tyrell,Joffrey Baratheon,marriedEngaged
+392,6259b96450c0904696384334,Margaery Tyrell,Tommen Baratheon,marriedEngaged
+393,6259b96450c0904696384334,Margaery Tyrell,Renly Baratheon,marriedEngaged
+394,6259b96450c0904696384334,Margaery Tyrell,Cersei Lannister,killedBy
+395,6259b96450c0904696384331,Mandon Moore,Podrick Payne,killedBy
+396,6259b96450c0904696384330,Mance Rayder,Jon Snow,killedBy
+397,6259b96450c0904696384330,Mance Rayder,Melisandre,killedBy
+398,6259b96450c090469638432d,Mago,Khal Drogo,killedBy
+399,6259b96450c090469638432b,Mag the Mighty,Grenn,killedBy
+400,6259b96450c090469638432b,Mag the Mighty,Cooper,killed
+401,6259b96450c090469638432b,Mag the Mighty,Donnel Hill,killed
+402,6259b96450c090469638432b,Mag the Mighty,Grenn,killed
+403,6259b96450c090469638432b,Mag the Mighty,Donnel Hill,killedBy
+404,6259b96450c090469638432b,Mag the Mighty,Cooper,killedBy
+405,6259b96450c0904696384329,Maester Luwin,Osha,killedBy
+406,6259b96450c0904696384328,Maester Cressen,Maester Cressen,killedBy
+407,6259b96450c0904696384328,Maester Cressen,Maester Cressen,killed
+408,6259b96450c0904696384327,Maester Aemon,Old Age,killedBy
+409,6259b96450c0904696384326,Mace Tyrell,Cersei Lannister,killedBy
+410,6259b96450c0904696384326,Mace Tyrell,Loras Tyrell,parentOf
+411,6259b96450c0904696384326,Mace Tyrell,Margaery Tyrell,parentOf
+412,6259b96450c0904696384325,Lysa Arryn,Petyr Baelish,killedBy
+413,6259b96450c0904696384325,Lysa Arryn,Catelyn Tully,siblings
+414,6259b96450c0904696384325,Lysa Arryn,Edmure Tully,siblings
+415,6259b96450c0904696384325,Lysa Arryn,Hoster Tully,parents
+416,6259b96450c0904696384325,Lysa Arryn,Jon Arryn,killed
+417,6259b96450c0904696384325,Lysa Arryn,Petyr Baelish,marriedEngaged
+418,6259b96450c0904696384324,Lyanna Stark,Rickard Stark,parents
+419,6259b96450c0904696384324,Lyanna Stark,Brandon Stark,siblings
+420,6259b96450c0904696384324,Lyanna Stark,Benjen Stark,siblings
+421,6259b96450c0904696384324,Lyanna Stark,Rhaegar Targaryen,marriedEngaged
+422,6259b96450c0904696384324,Lyanna Stark,Robert Baratheon,marriedEngaged
+423,6259b96450c0904696384324,Lyanna Stark,Eddard Stark,siblings
+424,6259b96450c0904696384324,Lyanna Stark,Jon Snow,parentOf
+425,6259b96450c0904696384324,Lyanna Stark,Rhaegar Targaryen,abductedBy
+426,6259b96450c0904696384324,Lyanna Stark,Jon Snow,killedBy
+427,6259b96450c0904696384323,Lyanna Mormont,Wun Wun,killedBy
+428,6259b96450c0904696384323,Lyanna Mormont,Wun Wun,killed
+429,6259b96450c0904696384320,Lothar Frey,Talisa Maegyr,killed
+430,6259b96450c0904696384320,Lothar Frey,Walder Frey,parents
+431,6259b96450c0904696384320,Lothar Frey,Arya Stark,killedBy
+432,6259b96450c090469638431e,Lord Varys,Daenerys Targaryen,killedBy
+433,6259b96450c090469638431b,Loras Tyrell,Mace Tyrell,parents
+434,6259b96450c090469638431b,Loras Tyrell,Cersei Lannister,killedBy
+435,6259b96450c090469638431b,Loras Tyrell,Margaery Tyrell,siblings
+436,6259b96450c090469638431a,Lommy Greenhands,Polliver,killedBy
+437,6259b96450c0904696384319,Lollys Stokeworth,Bronn,marriedEngaged
+438,6259b96450c0904696384318,Locke,Hodor,killedBy
+439,6259b96450c0904696384317,Loboda,White Walker,killedBy
+440,6259b96450c090469638430d,Lem Lemoncloak,Sandor Clegane,killedBy
+441,6259b96450c090469638430d,Lem Lemoncloak,Brother Ray,killed
+442,6259b96450c090469638430c,Leaf,Wights,killedBy
+443,6259b96450c090469638430b,Lead Dornish Guard,Bronn,killedBy
+444,6259b96450c0904696384305,Lancel Lannister,Kevan Lannister,parents
+445,6259b96450c0904696384305,Lancel Lannister,Willem Lannister,siblings
+446,6259b96450c0904696384305,Lancel Lannister,Martyn Lannister,siblings
+447,6259b96450c0904696384305,Lancel Lannister,Cersei Lannister,killedBy
+448,6259b96450c0904696384304,Lady Crane,The Waif,killedBy
+449,6259b96450c0904696384303,Lady,Sansa Stark,guardianOf
+450,6259b96450c0904696384303,Lady,Eddard Stark,killedBy
+451,6259b96450c0904696384303,Lady,Ghost,siblings
+452,6259b96450c0904696384303,Lady,Shaggydog,siblings
+453,6259b96450c0904696384303,Lady,Summer,siblings
+454,6259b96450c0904696384303,Lady,Nymeria,siblings
+455,6259b96450c0904696384303,Lady,Grey Wind,siblings
+456,6259b96450c0904696384302,Kurleket,Mountain Clansman,killedBy
+457,6259b96450c0904696384301,Kraznys mo Nakloz,Drogon,killedBy
+458,6259b96450c09046963842fd,Kitty Frey,Walder Frey,marriedEngaged
+459,6259b96450c09046963842fb,King's Landing Rioter #3,Sandor Clegane,killedBy
+460,6259b96450c09046963842fa,King's Landing Rioter #2,Sandor Clegane,killedBy
+461,6259b96450c09046963842f9,King's Landing Rioter #1,Sandor Clegane,killedBy
+462,6259b96450c09046963842f4,Khal Rhalko,Daenerys Targaryen,killedBy
+463,6259b96450c09046963842f3,Khal Moro,Daenerys Targaryen,killedBy
+464,6259b96450c09046963842f2,Khal Drogo,Viserys Targaryen,killed
+465,6259b96450c09046963842f2,Khal Drogo,Daenerys Targaryen,killedBy
+466,6259b96450c09046963842f2,Khal Drogo,Daenerys Targaryen,marriedEngaged
+467,6259b96450c09046963842f2,Khal Drogo,Rhaego,parentOf
+468,6259b96450c09046963842f2,Khal Drogo,Mago,killed
+469,6259b96450c09046963842f1,Kevan Lannister,Cersei Lannister,killedBy
+470,6259b96450c09046963842f1,Kevan Lannister,Lancel Lannister,parentOf
+471,6259b96450c09046963842f1,Kevan Lannister,Tywin Lannister,siblings
+472,6259b96450c09046963842f1,Kevan Lannister,Martyn Lannister,parentOf
+473,6259b96450c09046963842f1,Kevan Lannister,Willem Lannister,parentOf
+474,6259b96450c09046963842f0,Kegs,Wildling,killedBy
+475,6259b96450c09046963842ee,Karsi,Pack of Wights,killedBy
+476,6259b96450c09046963842ee,Karsi,Johnna,parentOf
+477,6259b96450c09046963842ee,Karsi,Willa,parentOf
+478,6259b96450c09046963842ed,Karl Tanner,Jon Snow,killedBy
+479,6259b96450c09046963842ed,Karl Tanner,Craster,killed
+480,6259b96450c09046963842ec,Joyeuse Erenford,Walder Frey,marriedEngaged
+481,6259b96450c09046963842ec,Joyeuse Erenford,Catelyn Stark,killedBy
+482,6259b96450c09046963842eb,Jory Cassel,Jaime Lannister,killedBy
+483,6259b96450c09046963842eb,Jory Cassel,Eddard Stark,serves
+484,6259b96450c09046963842ea,Jorah Mormont,Meereenese Champion,killed
+485,6259b96450c09046963842ea,Jorah Mormont,Qotho,killed
+486,6259b96450c09046963842ea,Jorah Mormont,Wights,killedBy
+487,6259b96450c09046963842ea,Jorah Mormont,Daenerys Targaryen,serves
+488,6259b96450c09046963842ea,Jorah Mormont,Jeor Mormont,parents
+489,6259b96450c09046963842ea,Jorah Mormont,Norvoshi Pit Fighter,killed
+490,6259b96450c09046963842e8,Jon Snow,Bowen Marsh,killed
+491,6259b96450c09046963842e8,Jon Snow,Othell Yarwyck,killed
+492,6259b96450c09046963842e8,Jon Snow,Alliser Thorne,killed
+493,6259b96450c09046963842e8,Jon Snow,White Walker,killed
+494,6259b96450c09046963842e8,Jon Snow,Olly,killed
+495,6259b96450c09046963842e8,Jon Snow,Lyanna Stark,killed
+496,6259b96450c09046963842e8,Jon Snow,Janos Slynt,killed
+497,6259b96450c09046963842e8,Jon Snow,Lyanna Stark,parents
+498,6259b96450c09046963842e8,Jon Snow,Rhaegar Targaryen,parents
+499,6259b96450c09046963842e8,Jon Snow,Mance Rayder,killed
+500,6259b96450c09046963842e8,Jon Snow,Styr,killed
+501,6259b96450c09046963842e8,Jon Snow,Bowen Marsh,killedBy
+502,6259b96450c09046963842e8,Jon Snow,Daenerys Targaryen,killed
+503,6259b96450c09046963842e8,Jon Snow,Olly,killedBy
+504,6259b96450c09046963842e8,Jon Snow,Othell Yarwyck,killedBy
+505,6259b96450c09046963842e8,Jon Snow,Alliser Thorne,killedBy
+506,6259b96450c09046963842e8,Jon Snow,Karl Tanner,killed
+507,6259b96450c09046963842e8,Jon Snow,Orell,killed
+508,6259b96450c09046963842e8,Jon Snow,Ygritte,marriedEngaged
+509,6259b96450c09046963842e8,Jon Snow,Qhorin Halfhand,killed
+510,6259b96450c09046963842e8,Jon Snow,Othor,killed
+511,6259b96450c09046963842e8,Jon Snow,Eddard Stark,guardedBy
+512,6259b96450c09046963842e8,Jon Snow,Ghost,guardedBy
+513,6259b96450c09046963842e7,Jon Arryn,Robert Baratheon,allies
+514,6259b96450c09046963842e7,Jon Arryn,Lysa Arryn,killedBy
+515,6259b96450c09046963842e7,Jon Arryn,Robert Baratheon,guardianOf
+516,6259b96450c09046963842e7,Jon Arryn,Eddard Stark,guardianOf
+517,6259b96450c09046963842e6,Jojen Reed,Meera Reed,siblings
+518,6259b96450c09046963842e6,Jojen Reed,Howland Reed,parents
+519,6259b96450c09046963842e6,Jojen Reed,Meera Reed,killedBy
+520,6259b96450c09046963842e5,Joffrey Baratheon,Petyr Baelish,killedBy
+521,6259b96450c09046963842e5,Joffrey Baratheon,Olenna Tyrell,killedBy
+522,6259b96450c09046963842e5,Joffrey Baratheon,Myrcella Baratheon,siblings
+523,6259b96450c09046963842e5,Joffrey Baratheon,Tommen Baratheon,siblings
+524,6259b96450c09046963842e5,Joffrey Baratheon,Margaery Tyrell,marriedEngaged
+525,6259b96450c09046963842e5,Joffrey Baratheon,Sansa Stark,marriedEngaged
+526,6259b96450c09046963842e5,Joffrey Baratheon,Robert Baratheon,parents
+527,6259b96450c09046963842e5,Joffrey Baratheon,Ros,killed
+528,6259b96450c09046963842e5,Joffrey Baratheon,Jaime Lannister,parents
+529,6259b96450c09046963842e5,Joffrey Baratheon,Cersei Lannister,parents
+530,6259b96450c09046963842e3,Jeor Mormont,Jorah Mormont,parentOf
+531,6259b96450c09046963842e3,Jeor Mormont,Rast,killedBy
+532,6259b96450c09046963842e0,Jaqen H'ghar,Despondent Man,killed
+533,6259b96450c09046963842e0,Jaqen H'ghar,The Tickler,killed
+534,6259b96450c09046963842e0,Jaqen H'ghar,Amory Lorch,killed
+535,6259b96450c09046963842df,Janos Slynt,Jon Snow,killedBy
+536,6259b96450c09046963842df,Janos Slynt,Barra,killed
+537,6259b96450c09046963842de,Jaime Lannister,Olenna Tyrell,killed
+538,6259b96450c09046963842de,Jaime Lannister,Aerys II Targaryen,killed
+539,6259b96450c09046963842de,Jaime Lannister,Tyrion Lannister,siblings
+540,6259b96450c09046963842de,Jaime Lannister,Joffrey Baratheon,guardianOf
+541,6259b96450c09046963842de,Jaime Lannister,Euron Greyjoy,killed
+542,6259b96450c09046963842de,Jaime Lannister,Tommen Baratheon,parentOf
+543,6259b96450c09046963842de,Jaime Lannister,Myrcella Baratheon,parentOf
+544,6259b96450c09046963842de,Jaime Lannister,Joffrey Baratheon,parentOf
+545,6259b96450c09046963842de,Jaime Lannister,Robert Baratheon,guardianOf
+546,6259b96450c09046963842de,Jaime Lannister,Aerys II Targaryen,guardianOf
+547,6259b96450c09046963842de,Jaime Lannister,Torrhen Karstark,killed
+548,6259b96450c09046963842de,Jaime Lannister,Tywin Lannister,parents
+549,6259b96450c09046963842de,Jaime Lannister,Alton Lannister,killed
+550,6259b96450c09046963842de,Jaime Lannister,Jory Cassel,killed
+551,6259b96450c09046963842de,Jaime Lannister,Roof collapse,killedBy
+552,6259b96450c09046963842de,Jaime Lannister,Cersei Lannister,siblings
+553,6259b96450c09046963842dd,Jafer Flowers,White Walker,killedBy
+554,6259b96450c09046963842da,Irri,Doreah,killedBy
+555,6259b96450c09046963842d9,Ilyn Payne,Eddard Stark,killed
+556,6259b96450c09046963842d7,Hugh of the Vale,Gregor Clegane,killedBy
+557,6259b96450c09046963842d6,Howland Reed,Arthur Dayne,killed
+558,6259b96450c09046963842d6,Howland Reed,Meera Reed,parentOf
+559,6259b96450c09046963842d6,Howland Reed,Jojen Reed,parentOf
+560,6259b96450c09046963842d6,Howland Reed,Eddard Stark,allies
+561,6259b96450c09046963842d3,Hodor,Wights,killedBy
+562,6259b96450c09046963842d3,Hodor,Locke,killed
+563,6259b96450c09046963842d2,Hizdahr zo Loraq,Sons of the Harpy,killedBy
+564,6259b96450c09046963842d1,High Sparrow,Cersei Lannister,killedBy
+565,6259b96450c09046963842cf,High Septon,Kings Landing Rioters,killedBy
+566,6259b96450c09046963842cd,Harry Strickland,Grey Worm,killedBy
+567,6259b96450c09046963842cc,Harald Karstark,Rickard Karstark,parents
+568,6259b96450c09046963842cc,Harald Karstark,Alys Karstark,parentOf
+569,6259b96450c09046963842c8,Grey Worm,Belicho Paenymion,killed
+570,6259b96450c09046963842c8,Grey Worm,Harry Strickland,killed
+571,6259b96450c09046963842c8,Grey Worm,Razdal mo Eraz,killed
+572,6259b96450c09046963842c8,Grey Worm,Daenerys Targaryen,serves
+573,6259b96450c09046963842c7,Grey Wind,Frey Crossbowmen,killedBy
+574,6259b96450c09046963842c7,Grey Wind,Lady,siblings
+575,6259b96450c09046963842c7,Grey Wind,Nymeria,siblings
+576,6259b96450c09046963842c7,Grey Wind,Robb Stark,guardianOf
+577,6259b96450c09046963842c7,Grey Wind,Summer,siblings
+578,6259b96450c09046963842c7,Grey Wind,Shaggydog,siblings
+579,6259b96450c09046963842c7,Grey Wind,Ghost,siblings
+580,6259b96450c09046963842c7,Grey Wind,Rennick,killed
+581,6259b96450c09046963842c6,Grenn,Mag the Mighty,killedBy
+582,6259b96450c09046963842c6,Grenn,Mag the Mighty,killed
+583,6259b96450c09046963842c5,Greizhen mo Ullhor,Unsullied,killedBy
+584,6259b96450c09046963842c4,Gregor Clegane,Rhaenys Targaryen,killed
+585,6259b96450c09046963842c4,Gregor Clegane,Tywin Lannister,serves
+586,6259b96450c09046963842c4,Gregor Clegane,Oberyn Martell,killed
+587,6259b96450c09046963842c4,Gregor Clegane,Hugh of the Vale,killed
+588,6259b96450c09046963842c4,Gregor Clegane,Elia Martell,killed
+589,6259b96450c09046963842c4,Gregor Clegane,Sandor Clegane,killedBy
+590,6259b96450c09046963842c4,Gregor Clegane,Qyburn,killed
+591,6259b96450c09046963842c4,Gregor Clegane,Missandei,killed
+592,6259b96450c09046963842c4,Gregor Clegane,Faith Militant,killed
+593,6259b96450c09046963842c4,Gregor Clegane,King's Landing Boaster,killed
+594,6259b96450c09046963842c4,Gregor Clegane,Aegon Targaryen,killed
+595,6259b96450c09046963842c4,Gregor Clegane,Cersei Lannister,serves
+596,6259b96450c09046963842c3,Greatjon Umber,Smalljon Umber,parentOf
+597,6259b96450c09046963842bc,Great Master #1,Rhaegal,killedBy
+598,6259b96450c09046963842bc,Great Master #1,Rebel Slaves,killedBy
+599,6259b96450c09046963842bc,Great Master #1,Viserion,killedBy
+600,6259b96450c09046963842bb,Grand Maester Pycelle,Little Birds,killedBy
+601,6259b96450c09046963842b6,Gilly,Baby Sam,parentOf
+602,6259b96450c09046963842b6,Gilly,Craster,parents
+603,6259b96450c09046963842b6,Gilly,Samwell Tarly,marriedEngaged
+604,6259b96450c09046963842b5,Ghost,Rast,killed
+605,6259b96450c09046963842b5,Ghost,Grey Wind,siblings
+606,6259b96450c09046963842b5,Ghost,Lady,siblings
+607,6259b96450c09046963842b5,Ghost,Nymeria,siblings
+608,6259b96450c09046963842b5,Ghost,Summer,siblings
+609,6259b96450c09046963842b5,Ghost,Shaggydog,siblings
+610,6259b96450c09046963842b5,Ghost,Jon Snow,guardianOf
+611,6259b96450c09046963842b4,Gerold Hightower,Eddard Stark,killedBy
+612,6259b96450c09046963842b3,Gendry,Robert Baratheon,parents
+613,6259b96450c09046963842b3,Gendry,Laurence Spellman,killed
+614,6259b96450c09046963842b3,Gendry,Kevin Eldon,killed
+615,6259b96450c09046963842b2,Gatins,Sandor Clegane,killedBy
+616,6259b96450c09046963842b1,Gared,White Walker,killedBy
+617,6259b96450c09046963842ae,Euron Greyjoy,Rhaegal,killed
+618,6259b96450c09046963842ae,Euron Greyjoy,Balon Greyjoy,siblings
+619,6259b96450c09046963842ae,Euron Greyjoy,Aeron Greyjoy,siblings
+620,6259b96450c09046963842ae,Euron Greyjoy,Balon Greyjoy,killed
+621,6259b96450c09046963842ae,Euron Greyjoy,Obara Sand,killed
+622,6259b96450c09046963842ae,Euron Greyjoy,Nymeria Sand,killed
+623,6259b96450c09046963842ae,Euron Greyjoy,Jaime Lannister,killedBy
+624,6259b96450c09046963842ac,Elia Martell,Gregor Clegane,killedBy
+625,6259b96450c09046963842ac,Elia Martell,Rhaegar Targaryen,marriedEngaged
+626,6259b96450c09046963842ac,Elia Martell,Rhaenys Targaryen,parentOf
+627,6259b96450c09046963842ac,Elia Martell,Aegon Targaryen,parentOf
+628,6259b96450c09046963842ac,Elia Martell,Doran Martell,siblings
+629,6259b96450c09046963842ac,Elia Martell,Oberyn Martell,siblings
+630,6259b96450c09046963842ab,Ellaria Sand,Myrcella Baratheon,killed
+631,6259b96450c09046963842ab,Ellaria Sand,Oberyn Martell,marriedEngaged
+632,6259b96450c09046963842ab,Ellaria Sand,Tyene Sand,parentOf
+633,6259b96450c09046963842ab,Ellaria Sand,Doran Martell,killed
+634,6259b96450c09046963842aa,Edmure Tully,Lysa Arryn,siblings
+635,6259b96450c09046963842aa,Edmure Tully,Roslin Frey,marriedEngaged
+636,6259b96450c09046963842aa,Edmure Tully,Catelyn Stark,siblings
+637,6259b96450c09046963842a9,Eddison Tollett,Wight,killedBy
+638,6259b96450c09046963842a8,Eddard Stark,Jon Snow,guardianOf
+639,6259b96450c09046963842a8,Eddard Stark,Robert Baratheon,allies
+640,6259b96450c09046963842a8,Eddard Stark,Catelyn Stark,marriedEngaged
+641,6259b96450c09046963842a8,Eddard Stark,Robb Stark,parentOf
+642,6259b96450c09046963842a8,Eddard Stark,Gerold Hightower,killed
+643,6259b96450c09046963842a8,Eddard Stark,Sansa Stark,parentOf
+644,6259b96450c09046963842a8,Eddard Stark,Arya Stark,parentOf
+645,6259b96450c09046963842a8,Eddard Stark,Rickard Stark,parents
+646,6259b96450c09046963842a8,Eddard Stark,Bran Stark,parentOf
+647,6259b96450c09046963842a8,Eddard Stark,Rickon Stark,parentOf
+648,6259b96450c09046963842a8,Eddard Stark,Jon Arryn,guardedBy
+649,6259b96450c09046963842a8,Eddard Stark,Lyanna Stark,siblings
+650,6259b96450c09046963842a8,Eddard Stark,Benjen Stark,siblings
+651,6259b96450c09046963842a8,Eddard Stark,Brandon Stark,siblings
+652,6259b96450c09046963842a8,Eddard Stark,Lady,killed
+653,6259b96450c09046963842a8,Eddard Stark,Ilyn Payne,killedBy
+654,6259b96450c09046963842a8,Eddard Stark,Will,killed
+655,6259b96450c09046963842a8,Eddard Stark,Arthur Dayne,killed
+656,6259b96450c09046963842a8,Eddard Stark,Howland Reed,allies
+657,6259b96450c09046963842a6,Drogon,Pyat Pree,killed
+658,6259b96450c09046963842a6,Drogon,Kraznys mo Nakloz,killed
+659,6259b96450c09046963842a6,Drogon,Daenerys Targaryen,guardianOf
+660,6259b96450c09046963842a6,Drogon,Zalla,killed
+661,6259b96450c09046963842a6,Drogon,Viserion,siblings
+662,6259b96450c09046963842a6,Drogon,Rhaegal,siblings
+663,6259b96450c09046963842a5,Drennan,Osha,killedBy
+664,6259b96450c09046963842a4,Dothraki Bloodrider #2,Daenerys Targaryen,killedBy
+665,6259b96450c09046963842a3,Dothraki Bloodrider #1,Daenerys Targaryen,killedBy
+666,6259b96450c09046963842a2,Doreah,Irri,killed
+667,6259b96450c09046963842a2,Doreah,Daenerys Targaryen,killedBy
+668,6259b96450c09046963842a1,Doran Martell,Elia Martell,siblings
+669,6259b96450c09046963842a1,Doran Martell,Oberyn Martell,siblings
+670,6259b96450c09046963842a1,Doran Martell,Trystane Martell,parentOf
+671,6259b96450c09046963842a1,Doran Martell,Ellaria Sand,killedBy
+672,6259b96450c09046963842a0,Dontos Hollard,Petyr Baelish,killedBy
+673,6259b96450c090469638429e,Dongo the Giant,Night's Watchman,killedBy
+674,6259b96450c090469638429d,Dickon Tarly,Samwell Tarly,siblings
+675,6259b96450c090469638429d,Dickon Tarly,Talla Tarly,siblings
+676,6259b96450c090469638429d,Dickon Tarly,Melessa Tarly,parents
+677,6259b96450c090469638429d,Dickon Tarly,Daenerys Targaryen,killedBy
+678,6259b96450c090469638429d,Dickon Tarly,Randyll Tarly,parents
+679,6259b96450c090469638429c,Davos Seaworth,Jon Snow,serves
+680,6259b96450c090469638429c,Davos Seaworth,Matthos Seaworth,parentOf
+681,6259b96450c090469638429c,Davos Seaworth,Stannis Baratheon,serves
+682,6259b96450c0904696384299,Daenerys Targaryen,Barristan Selmy,servedBy
+683,6259b96450c0904696384299,Daenerys Targaryen,Khal Moro,killed
+684,6259b96450c0904696384299,Daenerys Targaryen,Khal Rhalko,killed
+685,6259b96450c0904696384299,Daenerys Targaryen,Xaro Xhoan Daxos,killed
+686,6259b96450c0904696384299,Daenerys Targaryen,Doreah,killed
+687,6259b96450c0904696384299,Daenerys Targaryen,Mirri Maz Duur,killed
+688,6259b96450c0904696384299,Daenerys Targaryen,Khal Drogo,killed
+689,6259b96450c0904696384299,Daenerys Targaryen,Jon Snow,killedBy
+690,6259b96450c0904696384299,Daenerys Targaryen,Viserys Targaryen,siblings
+691,6259b96450c0904696384299,Daenerys Targaryen,Dothraki Bloodrider #1,killed
+692,6259b96450c0904696384299,Daenerys Targaryen,Rhaegar Targaryen,siblings
+693,6259b96450c0904696384299,Daenerys Targaryen,Eleanor's Daughter,killed
+694,6259b96450c0904696384299,Daenerys Targaryen,Khal Brozho,killed
+695,6259b96450c0904696384299,Daenerys Targaryen,Khal Qorro,killed
+696,6259b96450c0904696384299,Daenerys Targaryen,Daario Naharis,servedBy
+697,6259b96450c0904696384299,Daenerys Targaryen,Tyrion Lannister,servedBy
+698,6259b96450c0904696384299,Daenerys Targaryen,Missandei,servedBy
+699,6259b96450c0904696384299,Daenerys Targaryen,Khal Drogo,marriedEngaged
+700,6259b96450c0904696384299,Daenerys Targaryen,Dothraki Bloodrider #2,killed
+701,6259b96450c0904696384299,Daenerys Targaryen,Rhaego,parentOf
+702,6259b96450c0904696384299,Daenerys Targaryen,Aerys II Targaryen,parents
+703,6259b96450c0904696384299,Daenerys Targaryen,Rhaella Targaryen,parents
+704,6259b96450c0904696384299,Daenerys Targaryen,Viserion,guardedBy
+705,6259b96450c0904696384299,Daenerys Targaryen,Rhaegal,guardedBy
+706,6259b96450c0904696384299,Daenerys Targaryen,Drogon,guardedBy
+707,6259b96450c0904696384299,Daenerys Targaryen,Khal Forzho,killed
+708,6259b96450c0904696384299,Daenerys Targaryen,Lord Varys,killed
+709,6259b96450c0904696384299,Daenerys Targaryen,Eleanor,killed
+710,6259b96450c0904696384299,Daenerys Targaryen,Dickon Tarly,killed
+711,6259b96450c0904696384299,Daenerys Targaryen,Randyll Tarly,killed
+712,6259b96450c0904696384299,Daenerys Targaryen,Grey Worm,servedBy
+713,6259b96450c0904696384299,Daenerys Targaryen,Jorah Mormont,servedBy
+714,6259b96450c0904696384298,Daario Naharis,Daenerys Targaryen,serves
+715,6259b96450c0904696384298,Daario Naharis,Mero,killed
+716,6259b96450c0904696384298,Daario Naharis,Prendahl na Ghezn,killed
+717,6259b96450c0904696384298,Daario Naharis,Oznak zo Pahl,killed
+718,6259b96450c0904696384298,Daario Naharis,Mossador,killed
+719,6259b96450c0904696384298,Daario Naharis,Iggo,killed
+720,6259b96450c0904696384298,Daario Naharis,Akho,killed
+721,6259b96450c0904696384297,Craster,Karl Tanner,killedBy
+722,6259b96450c0904696384293,Cersei Lannister,Tyrion Lannister,siblings
+723,6259b96450c0904696384293,Cersei Lannister,Jaime Lannister,siblings
+724,6259b96450c0904696384293,Cersei Lannister,High Sparrow,killed
+725,6259b96450c0904696384293,Cersei Lannister,Loras Tyrell,killed
+726,6259b96450c0904696384293,Cersei Lannister,Mace Tyrell,killed
+727,6259b96450c0904696384293,Cersei Lannister,Margaery Tyrell,killed
+728,6259b96450c0904696384293,Cersei Lannister,Kevan Lannister,killed
+729,6259b96450c0904696384293,Cersei Lannister,Tyene Sand,killed
+730,6259b96450c0904696384293,Cersei Lannister,Roof collapse,killedBy
+731,6259b96450c0904696384293,Cersei Lannister,Tywin Lannister,parents
+732,6259b96450c0904696384293,Cersei Lannister,Lancel Lannister,killed
+733,6259b96450c0904696384293,Cersei Lannister,Joffrey Baratheon,parentOf
+734,6259b96450c0904696384293,Cersei Lannister,Myrcella Baratheon,parentOf
+735,6259b96450c0904696384293,Cersei Lannister,Tommen Baratheon,parentOf
+736,6259b96450c0904696384293,Cersei Lannister,Robert Baratheon,marriedEngaged
+737,6259b96450c0904696384292,Catspaw Assassin,Summer,killedBy
+738,6259b96450c0904696384291,Catelyn Stark,Arya Stark,parentOf
+739,6259b96450c0904696384291,Catelyn Stark,Sansa Stark,parentOf
+740,6259b96450c0904696384291,Catelyn Stark,Black Walder Rivers,killedBy
+741,6259b96450c0904696384291,Catelyn Stark,Joyeuse Erenford,killed
+742,6259b96450c0904696384291,Catelyn Stark,Eddard Stark,marriedEngaged
+743,6259b96450c0904696384291,Catelyn Stark,Brandon Stark,marriedEngaged
+744,6259b96450c0904696384291,Catelyn Stark,Robb Stark,parentOf
+745,6259b96450c0904696384291,Catelyn Stark,Bran Stark,parentOf
+746,6259b96450c0904696384291,Catelyn Stark,Rickon Stark,parentOf
+747,6259b96450c0904696384291,Catelyn Stark,Edmure Tully,siblings
+748,6259b96450c0904696384291,Catelyn Stark,Lysa Arryn,siblings
+749,6259b96450c0904696384291,Catelyn Stark,Hoster Tully,parents
+750,6259b96450c090469638428f,Brynden Tully,Hoster Tully,siblings
+751,6259b96450c090469638428e,Brother Ray,Lem Lemoncloak,killedBy
+752,6259b96450c090469638428d,Bronn,Lollys Stokeworth,marriedEngaged
+753,6259b96450c090469638428d,Bronn,Lead Dornish Guard,killed
+754,6259b96450c090469638428d,Bronn,Matthos Seaworth,killed
+755,6259b96450c090469638428d,Bronn,Vardis Egen,killed
+756,6259b96450c090469638428c,Brienne of Tarth,Podrick Payne,servedBy
+757,6259b96450c090469638428c,Brienne of Tarth,Bran Stark,serves
+758,6259b96450c090469638428c,Brienne of Tarth,Sansa Stark,serves
+759,6259b96450c090469638428c,Brienne of Tarth,Catelyn Stark,serves
+760,6259b96450c090469638428c,Brienne of Tarth,Renly Baratheon,serves
+761,6259b96450c090469638428c,Brienne of Tarth,Bolton Officer,killed
+762,6259b96450c090469638428c,Brienne of Tarth,Stannis Baratheon,killed
+763,6259b96450c090469638428c,Brienne of Tarth,Soldier Tom,killed
+764,6259b96450c090469638428a,Bran Stark,Eddard Stark,parents
+765,6259b96450c090469638428a,Bran Stark,Catelyn Stark,parents
+766,6259b96450c090469638428a,Bran Stark,Robb Stark,siblings
+767,6259b96450c090469638428a,Bran Stark,Summer,guardedBy
+768,6259b96450c090469638428a,Bran Stark,Sansa Stark,siblings
+769,6259b96450c090469638428a,Bran Stark,Arya Stark,siblings
+770,6259b96450c090469638428a,Bran Stark,Rickon Stark,siblings
+771,6259b96450c0904696384289,Brandon Stark,Rickard Stark,parents
+772,6259b96450c0904696384289,Brandon Stark,Eddard Stark,siblings
+773,6259b96450c0904696384289,Brandon Stark,Benjen Stark,siblings
+774,6259b96450c0904696384289,Brandon Stark,Lyanna Stark,siblings
+775,6259b96450c0904696384289,Brandon Stark,Aerys II Targaryen,killedBy
+776,6259b96450c0904696384288,Bowen Marsh,Jon Snow,killed
+777,6259b96450c0904696384288,Bowen Marsh,Jon Snow,killedBy
+778,6259b96450c0904696384286,Black Walder Rivers,Walder Frey,parents
+779,6259b96450c0904696384286,Black Walder Rivers,Catelyn Stark,killed
+780,6259b96450c0904696384286,Black Walder Rivers,Arya Stark,killedBy
+781,6259b96450c0904696384284,Biter,Sandor Clegane,killedBy
+782,6259b96450c0904696384282,Beric Dondarrion,Sandor Clegane,killedBy
+783,6259b96450c0904696384282,Beric Dondarrion,Wights,killedBy
+784,6259b96450c0904696384281,Benjen Stark,Eddard Stark,siblings
+785,6259b96450c0904696384281,Benjen Stark,Lyanna Stark,siblings
+786,6259b96450c0904696384281,Benjen Stark,Brandon Stark,siblings
+787,6259b96450c0904696384281,Benjen Stark,Rickard Stark,parents
+788,6259b96450c0904696384281,Benjen Stark,Wights,killedBy
+789,6259b96450c0904696384280,Barristan Selmy,Daenerys Targaryen,serves
+790,6259b96450c0904696384280,Barristan Selmy,Sons of the Harpy,killedBy
+791,6259b96450c090469638427e,Balon Greyjoy,Euron Greyjoy,killedBy
+792,6259b96450c090469638427e,Balon Greyjoy,Euron Greyjoy,siblings
+793,6259b96450c090469638427e,Balon Greyjoy,Aeron Greyjoy,siblings
+794,6259b96450c090469638427e,Balon Greyjoy,Yara Greyjoy,parentOf
+795,6259b96450c090469638427e,Balon Greyjoy,Theon Greyjoy,parentOf
+796,6259b96450c090469638427d,Baby Sam,Gilly,parents
+797,6259b96450c090469638427d,Baby Sam,Samwell Tarly,parents
+798,6259b96450c090469638427c,Arya Stark,Meryn Trant,killed
+799,6259b96450c090469638427c,Arya Stark,Polliver,killed
+800,6259b96450c090469638427c,Arya Stark,Viserion,killed
+801,6259b96450c090469638427c,Arya Stark,Lothar Frey,killed
+802,6259b96450c090469638427c,Arya Stark,White Walker,killed
+803,6259b96450c090469638427c,Arya Stark,Eddard Stark,parents
+804,6259b96450c090469638427c,Arya Stark,Catelyn Stark,parents
+805,6259b96450c090469638427c,Arya Stark,Frey Soldier #1,killed
+806,6259b96450c090469638427c,Arya Stark,The Night King,killed
+807,6259b96450c090469638427c,Arya Stark,Black Walder Rivers,killed
+808,6259b96450c090469638427c,Arya Stark,Walder Frey,killed
+809,6259b96450c090469638427c,Arya Stark,Petyr Baelish,killed
+810,6259b96450c090469638427c,Arya Stark,Robb Stark,siblings
+811,6259b96450c090469638427c,Arya Stark,Rickon Stark,siblings
+812,6259b96450c090469638427c,Arya Stark,Bran Stark,siblings
+813,6259b96450c090469638427c,Arya Stark,Sansa Stark,siblings
+814,6259b96450c090469638427c,Arya Stark,The Waif,killed
+815,6259b96450c090469638427c,Arya Stark,Ghita,killed
+816,6259b96450c090469638427c,Arya Stark,Nymeria,guardedBy
+817,6259b96450c090469638427c,Arya Stark,Red Keep Stableboy,killed
+818,6259b96450c090469638427c,Arya Stark,Rorge,killed
+819,6259b96450c090469638427b,Arthur Dayne,Howland Reed,killedBy
+820,6259b96450c090469638427b,Arthur Dayne,Aerys II Targaryen,serves
+821,6259b96450c090469638427b,Arthur Dayne,Eddard Stark,killedBy
+822,6259b96450c0904696384278,Areo Hotah,Doran Martell,serves
+823,6259b96450c0904696384278,Areo Hotah,Tyene Sand,killedBy
+824,6259b96450c0904696384275,Amory Lorch,Jaqen H'ghar,killedBy
+825,6259b96450c0904696384275,Amory Lorch,Yoren,killed
+826,6259b96450c0904696384274,Alys Karstark,Harald Karstark,parents
+827,6259b96450c0904696384273,Alton Lannister,Jaime Lannister,killedBy
+828,6259b96450c0904696384272,Alliser Thorne,Jon Snow,killed
+829,6259b96450c0904696384272,Alliser Thorne,Jon Snow,killedBy
+830,6259b96450c0904696384271,Akho,Daario Naharis,killedBy
+831,6259b96450c0904696384270,Aerys II Targaryen,Jaime Lannister,killedBy
+832,6259b96450c0904696384270,Aerys II Targaryen,Rhaella Targaryen,marriedEngaged
+833,6259b96450c0904696384270,Aerys II Targaryen,Arthur Dayne,servedBy
+834,6259b96450c0904696384270,Aerys II Targaryen,Rhaella Targaryen,siblings
+835,6259b96450c0904696384270,Aerys II Targaryen,Daenerys Targaryen,parentOf
+836,6259b96450c0904696384270,Aerys II Targaryen,Rhaegar Targaryen,parentOf
+837,6259b96450c0904696384270,Aerys II Targaryen,Viserys Targaryen,parentOf
+838,6259b96450c0904696384270,Aerys II Targaryen,Rickard Stark,killed
+839,6259b96450c0904696384270,Aerys II Targaryen,Brandon Stark,killed
+840,6259b96450c0904696384270,Aerys II Targaryen,Jaime Lannister,servedBy
+841,6259b96450c090469638426f,Aeron Greyjoy,Balon Greyjoy,siblings
+842,6259b96450c090469638426f,Aeron Greyjoy,Euron Greyjoy,siblings
+843,6259b96450c090469638426e,Aegon Targaryen,Gregor Clegane,killedBy
+844,6259b96450c090469638426e,Aegon Targaryen,Jon Snow,siblings
+845,6259b96450c090469638426e,Aegon Targaryen,Rhaegar Targaryen,parents
+846,6259b96450c090469638426e,Aegon Targaryen,Elia Martell,parents
+847,6259b96450c090469638426e,Aegon Targaryen,Rhaenys Targaryen,siblings
